@@ -1,0 +1,8 @@
+D:\Programming\Zionet\Threads\Threads\bin\Debug\Threads.exe.config
+D:\Programming\Zionet\Threads\Threads\bin\Debug\Threads.exe
+D:\Programming\Zionet\Threads\Threads\bin\Debug\Threads.pdb
+D:\Programming\Zionet\Threads\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
+D:\Programming\Zionet\Threads\Threads\obj\Debug\Threads.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Zionet\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\Threads\Threads\obj\Debug\Threads.exe
+D:\Programming\Zionet\Threads\Threads\obj\Debug\Threads.pdb
